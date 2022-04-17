@@ -20,7 +20,7 @@ Meu foco é o quanto antes tirar a Cloud Practitioner, pois com o desconto de 85
 - [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/?ch=sec&sec=rmg&d=1)
 - [AWS Certified: SAP on AWS - Specialty](https://aws.amazon.com/certification/certified-sap-on-aws-specialty/?ch=sec&sec=rmg&d=1)
 
-Dentro de cada certificação, você encontra simulado e tudo que é pedido em cada um dos casos mas fica aqui uma grande dica, o instagram do [Marcelo Araújo](https://www.instagram.com/marcelo_devsres/), tem vários carrosséis com muita dica rápida e alguns com requisitos de certificações etc, a live dele na [twitch](https://www.twitch.tv/marcelo_devsres) também é muito boa e tem MUITO  conteúdo.
+Dentro de cada certificação, você encontra simulado, assuntos pedidos em cada um dos exames, detalhamento da prova e mais. Porém aqui fica uma grande dica. O instagram do [Marcelo Araújo](https://www.instagram.com/marcelo_devsres/), tem muitas dicas objetivas e de alta qualidade, inclusive de requisitos das certificações, a live dele na [twitch](https://www.twitch.tv/marcelo_devsres) também é muito boa e tem MUITO conteúdo.
 
 ##
 
