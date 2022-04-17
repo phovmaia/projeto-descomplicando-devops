@@ -6,6 +6,8 @@
 
 - Site com road maps de carreiras criado pelo [Kamran Ahmed](https://twitter.com/kamranahmedse), o conteúdo é sensacional e serve como base para todas as carreiras de TI. Prestem atenção nas legendas pois faz toda a diferença <https://roadmap.sh/devops>.
 - Vídeo do [Rafael Gomex](https://twitter.com/gomex) onde ele fala de uma maneira muito legal sobre um dos possíveis caminhos de entrada para o mundo de DevOps <https://youtu.be/Bequ5WVoTjk>.
+- Vídeo do [Jefferson](https://twitter.com/badtux_) onde ele também fala de um caminho de entrada para o mundo de DevOps <https://youtu.be/Z_GTtWzoHOA>.
+- Projeto de Workshop que participei do [Bruno Germano](https://twitter.com/egermano) Como colocar o seu projeto na núvem <https://youtu.be/4k0LsOXKiTY>.
 - **Conversas com MUITAS pessoas!** Pode parecer piada mas quero aproveitar esse momento pra deixar claro que o maior asset que todos nós temos para quase tudo é network. Se você tem uma rede de pessoas por perto(seja fisicamente ou online), que está disposta a ajuda, postar um conteúdo sobre algo que você quer aprender, tirar uma dúvida, compartilhar um projeto com um PR, . Em resumo conversar com pessoas e se informar de todas as maneiras provavelmente é a maneira mais forte de você traçar um caminho legal e seguir firme e forte!
 
 ### 1. OS Concepts
