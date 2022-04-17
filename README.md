@@ -38,7 +38,8 @@
 2. Ao [Bruno Germano](https://twitter.com/egermano), que mudou minha vida. Tive a honra de participar da primeira mentoria/programa de aceleração da OBG mas no final de tudo o que ganhei de mais valioso não foi o conhecimento tecnológico e sim o grande amigo e mentor.
 3. Não tem como agradecer ao  [Jefferson](https://twitter.com/badtux_), o [Rafael Gomex](https://twitter.com/gomex), a [AWS Brasil](https://twitter.com/AWSBrasil) e todos os outros envolvidos nesse mega evento que o pessoal da [LinuxTips](https://www.linuxtips.io/) tá fazendo. E para quem não sabe dá um confere que já tiveram vários projetos como o **#BondeDaAWS**.
 4. Deixo um salve também pra algumas outras pessoas que tem um dedinho nisso aqui:
-  - [Emídio](https://www.twitch.tv/em1dio) grande amigo e fundador de uma das comunidades mais fantásticas que temos no Brasil, a [HUB](https://ahub.tech/), que tem projetos colaborativos, pessoal sempre tirando dúvidas e muita coisa boa.
-  - [Marco Bruno](https://twitter.com/marcobrunodev) grande inspiração de colaborador para a comunidade e pessoa.
-  - [Júlio Arruda](https://twitter.com/julioarrudaC) também um grande colaborador para comunidade trazendo conteúdo de qualidade, ótimas lives e um servidor ótimo no Discord.
-  - [Thiago IRDX](https://twitter.com/irad3x) meu vizinho, grande amigo e grande DevOps, apesar de ser low profile é um cara que me ajuda diariamente em tudo que sabe e as vezes em coisas que até não sabe.
+
+- [Emídio](https://www.twitch.tv/em1dio) grande amigo e fundador de uma das comunidades mais fantásticas que temos no Brasil, a [HUB](https://ahub.tech/), que tem projetos colaborativos, pessoal sempre tirando dúvidas e muita coisa boa.
+- [Marco Bruno](https://twitter.com/marcobrunodev) grande inspiração de colaborador para a comunidade e pessoa.
+- [Júlio Arruda](https://twitter.com/julioarrudaC) também um grande colaborador para comunidade trazendo conteúdo de qualidade, ótimas lives e um servidor ótimo no Discord.
+- [Thiago IRDX](https://twitter.com/irad3x) meu vizinho, grande amigo e grande DevOps, apesar de ser low profile é um cara que me ajuda diariamente em tudo que sabe e as vezes em coisas que até não sabe.
