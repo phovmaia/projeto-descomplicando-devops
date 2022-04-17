@@ -42,4 +42,5 @@
 - [Emídio](https://www.twitch.tv/em1dio) grande amigo e fundador de uma das comunidades mais fantásticas que temos no Brasil, a [HUB](https://ahub.tech/), que tem projetos colaborativos, pessoal sempre tirando dúvidas e muita coisa boa.
 - [Marco Bruno](https://twitter.com/marcobrunodev) grande inspiração de colaborador para a comunidade e pessoa.
 - [Júlio Arruda](https://twitter.com/julioarrudaC) também um grande colaborador para comunidade trazendo conteúdo de qualidade, ótimas lives e um servidor ótimo no Discord.
+- [Marcelo Andrade](https://www.instagram.com/marcelo_devsres/) como ele mesmo diz, entusiasta do software livre desde 1997, tem nem o que falar. Instagram do cara é LOTADO de conteúdo de qualidade e as streams também não tem o que falar de tanta coisa de qualidade.
 - [Thiago IRDX](https://twitter.com/irad3x) meu vizinho, grande amigo e grande DevOps, apesar de ser low profile é um cara que me ajuda diariamente em tudo que sabe e as vezes em coisas que até não sabe.
