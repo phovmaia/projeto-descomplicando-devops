@@ -9,6 +9,7 @@
 - **Conversas com MUITAS pessoas!** Pode parecer piada mas quero aproveitar esse momento pra deixar claro que o maior asset que todos nós temos para quase tudo é network. Se você tem uma rede de pessoas por perto(seja fisicamente ou online), que está disposta a ajuda, postar um conteúdo sobre algo que você quer aprender, tirar uma dúvida, compartilhar um projeto com um PR, . Em resumo conversar com pessoas e se informar de todas as maneiras provavelmente é a maneira mais forte de você traçar um caminho legal e seguir firme e forte!
 
 <!-- # ROADMAP VAI AQUI -->
+1. ![OS Concepts](https://ibb.co/Nyx8djt)
 
 ## Dito tudo isso esse projeto tem alguns agredecimentos especiais
 
