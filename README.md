@@ -1,3 +1,7 @@
+# NOTE
+### Esse repo era do esquenta para o #bondeDaAWS porém virou outro projeto que na semana do dia 30/05 será anunciado o cronograma e outras informações.
+
+
 # Repositório preparatório para o #BondeDaAWS
 
  Primeiro me apresento, sou o Pedro Henrique aka phovmaia, estou em mudança de carreira para a área tech tem quase 1 ano e esse projeto nada mais é do que minha maneira de compartilhar o que, e como tenho estudado para me preparar para o evento **#BondeDaAWS** em Maio, organizado pelo [Jefferson Fernando](https://twitter.com/badtux_) da [LinuxTips](https://www.linuxtips.io/) e para me aprofundar na área de DevOps.
